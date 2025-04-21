@@ -7,11 +7,10 @@
 
 
 <div align="left">
-  
-This program takes a domain passed into the terminal and plots the 
+This program takes a domain passed into the Ubuntu terminal and plots the 
 weather forecast by hour on a graph. (With a maxima of 160hrs)
 The program utilizes modular design where the functions are predefined, then called in main.
-The program will display the API call, Coordinates, and temps. This is to have some user feedback
+The program will display the API call, Coordinates, and temps. This is to have some user feedback to ensure
 that the program is functioning.
 
 </div>
