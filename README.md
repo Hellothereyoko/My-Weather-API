@@ -7,15 +7,17 @@
 
 
 <div align="left">
+  
 This program takes a domain passed into the Ubuntu terminal and plots the 
 weather forecast by hour on a graph. (With a maxima of 160hrs)
 The program utilizes modular design where the functions are predefined, then called in main.
 The program will display the API call, Coordinates, and temps. This is to have some user feedback to ensure
 that the program is functioning.
 
-Check out my implementation of this API in a Python FLASK server at: 
 
 </div>
+
+
 <br>
 
 
@@ -49,9 +51,21 @@ Check out my implementation of this API in a Python FLASK server at:
 
 <div align="center">
 
-## $${\color{red}Example:}$$
+# $${\color{red}Example:}$$
 
     python3 lab2.py google.com
+
+
+    
+
+</div>
+
+
+<div align="center">
+
+# $${\color{red}Check} {\color{red}Out} {} {\color{red}My} {} {\color{red}Implementation} {} {\color{red}as} {} {\color{red}a}{} {\color{red}FLASK} {} {\color{red}Server} {} {\color{red}at:}$$
+
+     https://github.com/Hellothereyoko/Dev-Server-Example
 
 </div>
 
