@@ -33,7 +33,7 @@ that the program is functioning.
 - ### $${\color{red}Step} {} {\color{red}1:}$$  Resolves Domain to IP
 - ### $${\color{red}Step} {} {\color{red}2a:}$$ Resolves IP to Physical Address
 - ### $${\color{red}Step} {} {\color{red}2b:}$$ Parses Returned Address in Human Readable Fields
-- ### $${\color{red}Step} {} {\color{red}1:}$$  Resolves Physical Address into Coordinates
+- ### $${\color{red}Step} {} {\color{red}3:}$$  Resolves Physical Address into Coordinates
 - ### $${\color{red}Step} {} {\color{red}4:}$$  Fetches Weather @ Coordinates
 - ###  $${\color{red}Step} {} {\color{red}5:}$$ Plots Temps Over 160hrs
 
